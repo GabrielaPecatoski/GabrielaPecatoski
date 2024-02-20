@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I have been studying software engineering since January 2023 at unifatecie;<br>🌱 I’m currently learning: HTML, Javascript, git/github, MySQL, Postges and MOngoDB;<br>💬 Ask me about Python, Linux,  algorithm, PHP, Raspberry pi and MacOs.
+🌱 I’m currently learning: HTML, Javascript, git/github, MySQL, Postges and MOngoDB;<br>💬 Ask me about Python, Linux,  algorithm, PHP, Raspberry pi and MacOs.
 
 
 ## 🌐 Socials:
