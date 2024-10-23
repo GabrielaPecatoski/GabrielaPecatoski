@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning: HTML, Javascript, git/github, MySQL, Postges and MOngoDB;<br>💬 Ask me about: Python, Linux,  algorithm, PHP, Raspberry pi and MacOs.
+🌱 I’m currently learning: Ruby, NodeJs, Java, C++, Postges and MOngoDB;<br>💬 Ask me about: Python, C, Linux,  algorithm, PHP, Raspberry pi,  HTML, Javascript, git/github and MySQL,
 
 
 ## 🌐 Socials:
